@@ -1,4 +1,4 @@
-# Which prepaid plan is more profitable, for hypothetical telecom company Megaline?
+# Which prepaid plan is more profitable?
 
 ### Background
 
